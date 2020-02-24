@@ -11,7 +11,7 @@
 
 ![2019 Frontier](/Images/eff_port_frontier_2019.png)
 
-![2019 Weights](/Images/eff_port_weights_graph_2019.png)
+![2019 Weights](/Images/eff_weights_2019.PNG)
 
 ![2019 Weight Graph](/Images/eff_port_weight_graph_2019.png)
 
