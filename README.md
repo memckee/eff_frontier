@@ -11,13 +11,13 @@
 
 ![2019 Frontier](/Images/eff_port_frontier_2019.png)
 
-![2019 Weights](/Images/eff_port_weights_2019.png)
+![2019 Weights](/Images/eff_port_weights_graph_2019.png)
 
 ![2019 Weight Graph](/Images/eff_port_weight_graph_2019.png)
 
 ## Efficient Portfolio Performance in 2019
 
-![2019 Performance](/Images/eff_port_stats_2019.png)
+![2019 Performance](/Images/eff_port_stats_2019.PNG)
 
 # Backtesting the Efficient Frontier
 
@@ -25,9 +25,9 @@
 
 ![Cons Weights](/Images/port_all_cons.png)
 
-![Mod-Cons Weights](/Images/port_all_mond_cons.png)
+![Mod-Cons Weights](/Images/port_all_mod_cons.png)
 
-![Mod Weights](/Images/port_all_mod.png)
+![Mod Weights](/Images/port_all_moder.png)
 
 ![Mod-Agg Weights](/Images/port_all_mod_agg.png)
 
