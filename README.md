@@ -13,7 +13,7 @@ How well does the theoretical map onto practical decision making? This project e
 
 Given historical returns of component portfolios, the set of efficient portfolios can be calculated using optimization function in Python. For a given return expectation, the minimum variance portfolio can be found through finding the investment weights that minimize:
 
-![Minimization Process]https://latex.codecogs.com/gif.latex?\min&space;\mathbf{{w}^tCw}
+![Minimization Process](https://latex.codecogs.com/gif.latex?\min&space;\mathbf{{w}^tCw})
 
 where:
 
