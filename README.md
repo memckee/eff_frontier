@@ -11,14 +11,7 @@ How well does the theoretical map onto practical decision making? This project e
 
 # The Efficient Frontier in Python
 
-Given historical returns of component portfolios, the set of efficient portfolios can be calculated using optimization function in Python. For a given return expectation, the minimum variance portfolio can be found through finding the investment weights that minimize:
-
-![Minimization Process](https://latex.codecogs.com/gif.latex?\min&space;\mathbf{{w}^tCw})
-
-where:
-
-* **w** is a vector of investment weights in the portfolio
-* **C** is a matrix of historical covariances of the investments
+Given historical returns of component portfolios, the set of efficient portfolios can be calculated using optimization function in Python. For a given return expectation, the minimum variance portfolio can be found through finding the investment weights that minimize portfolio variance.
 
 The scipy library's minimize function allows for simplistic coding of this problem. To generate the frontier, this analysis makes some assumptions about a hypothetical retail investor:
 
